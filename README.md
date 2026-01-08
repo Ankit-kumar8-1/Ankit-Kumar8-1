@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ankit Saahariya</h1>
-<h3 align="center">I am a passionate Java Full Stack Developer</h3>
+<h1 align="left">Hi 👋, I'm Ankit Saahariya</h1>
+<h3 align="left">I am a passionate Java Full Stack Developer</h3>
 
-<p align="center">
+<p align="left">
 🎓 Pursuing B.Tech in Computer Science and Engineering
 </p>
 
@@ -42,45 +42,5 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
 </p>
 
-<b>Programming Language</b><br/>
-Java
 
-<br/><br/>
-
-<b>Core Java</b><br/>
-OOP Concepts, Collections Framework, Multithreading, Exception Handling, JDBC
-
-<br/><br/>
-
-<b>Spring & Backend</b><br/>
-Spring Core, Spring Boot, Spring MVC, Spring Data JPA, Spring Security, Spring REST
-
-<br/><br/>
-
-<b>Database</b><br/>
-MySQL, MongoDB
-
-<br/><br/>
-
-<b>Web & API</b><br/>
-HTML, CSS, REST API
-
-<br/><br/>
-
-<b>Security</b><br/>
-JWT Authentication
-
-<br/><br/>
-
-<b>Build & Tools</b><br/>
-Maven, Git, GitHub, Postman, Docker
-
----
-
-
-
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankit-kumar8-1&show_icons=true&locale=en&layout=compact" alt="ankit-kumar8-1" /></p> -->
-
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankit-kumar8-1&show_icons=true&locale=en" alt="ankit-kumar8-1" /></p> -->
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankit-kumar8-1&" alt="ankit-kumar8-1" /></p>
+---                                             <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankit-kumar8-1&" alt="ankit-kumar8-1" /></p>
