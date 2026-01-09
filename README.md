@@ -42,5 +42,4 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
 </p>
 
-
----                                             <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankit-kumar8-1&" alt="ankit-kumar8-1" /></p>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankit-kumar8-1&" alt="ankit-kumar8-1" /></p>
