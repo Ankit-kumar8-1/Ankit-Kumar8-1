@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working on <b>streamVerse-backend</b>  
+- 🔭 Currently working on <b>E-CommerceX Backend</b>  
 - 💻 Strong in Java and Spring Boot backend  
 - 🌱 Always learning and improving  
 - 📫 Email: <b>ankitk.software@gmail.com</b>
