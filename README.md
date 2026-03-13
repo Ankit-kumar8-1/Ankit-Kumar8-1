@@ -1,45 +1,140 @@
-<h1 align="left">Hi 👋, I'm Ankit Saahariya</h1>
-<h3 align="left">I am a passionate Java Full Stack Developer</h3>
+<div align="center">
 
-<p align="left">
-🎓 Pursuing B.Tech in Computer Science and Engineering
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Ankit%20Saahariya&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Developer&descAlignY=60&descSize=20&descColor=ffffff"/>
+
+</div>
+
+---
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+API+%7C+MySQL;Building+Secure+%26+Scalable+Systems;Open+to+Backend+Roles+%26+Internships)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```java
+public class Ankit {
+
+    String name        = "Ankit Saahariya";
+    String degree      = "B.Tech CSE — Maharshi Dayanand University";
+    String role        = "Java Backend Developer";
+    String email       = "ankitk.software@gmail.com";
+
+    String[] currentlyBuilding = {
+        "E-CommerceX Backend",
+        "Route Navigator API"
+    };
+
+    String[] expertise = {
+        "REST API Development",
+        "JWT Authentication & Spring Security",
+        "Microservices Architecture",
+        "Database Design & Optimization"
+    };
+
+    String[] interests = {
+        "Clean Architecture",
+        "Security-First Development",
+        "Performance Optimization"
+    };
+
+    String goal = "Open to Backend Development Roles & Internships";
+}
+```
+
+---
+
+## 🚀 Key Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| 🎬 **Streamverse** | Video streaming backend with HTTP Range-based chunked streaming | Spring Boot, MySQL |
+| 🛒 **E-Commerce Backend** | Multi-vendor platform with Razorpay, seller approval workflows | Spring Boot, JWT, MySQL |
+| 🗺️ **Route Navigator** | Smart route finder with geocoding, ETA & fuel cost estimation | Spring Boot, OSRM, ORS |
+| 🔐 **Auth Service** | Reusable JWT auth module with OTP & email verification | Spring Boot, Spring Security |
+
+---
+
+## 🛠️ Tech Stack
+
+### ⚙️ Backend
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"/>
+</p>
+
+### 🗄️ Database
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+### 🔧 Tools & DevOps
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+</p>
+
+### 🌐 Basics
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 ---
 
-### 🚀 About Me
-- 🔭 Currently working on <b>E-CommerceX Backend</b>  
-- 💻 Strong in Java and Spring Boot backend  
-- 🌱 Always learning and improving  
-- 📫 Email: <b>ankitk.software@gmail.com</b>
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ankit-kumar8-1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-kumar8-1&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ankit-kumar8-1&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
 
 ---
 
-### 🔗 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/ankitkumar1c" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-</a>
-<a href="https://www.leetcode.com/ankit_kumarjd/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
-</a>
-</p>
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ankit-kumar8-1&theme=tokyonight&no-frame=true&column=6"/>
+
+</div>
 
 ---
 
-### 🛠️ Skills & Technologies
+## 🔗 Connect with Me
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-</p>
+<div align="center">
 
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankit-kumar8-1&" alt="ankit-kumar8-1" /></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankitkumar1c)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/ankit_kumarjd/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitk.software@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer"/>
+
+</div>
