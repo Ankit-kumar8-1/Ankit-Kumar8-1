@@ -20,7 +20,7 @@ public class Ankit {
     String name     = "Ankit Saahariya";
     String degree   = "B.Tech CSE — Maharshi Dayanand University Rohtak";
     String role     = "Java Backend Developer";
-    String email    = "ankitk.software@gmail.com";
+    String email    = "ankitk.ankitsaahariya@gmail.com";
 
     String[] expertise = {
         "REST API Design & Development",
